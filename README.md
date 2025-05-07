@@ -57,75 +57,43 @@ I'm a Systems & Industrial Engineer specialized in **Artificial Intelligence** a
 </div>
 
 ## 🚀 Featured Projects
-
 <div align="center">
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Advanced RAG System</h3>
+      <h3 align="center">🔍 Advanced RAG Architecture</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/1*E-xAZu0g1MMKkMfB2Xfx4g.png" width="100%" alt="RAG Architecture"/></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-39c?style=for-the-badge&logo=codepen&logoColor=white"/>
-          </a>
-        </p>
-        <p>Retrieval-Augmented Generation system with contextual BERT embeddings and fine-tuned Llama models for domain-specific knowledge retrieval.</p>
+        <p><b>Tech:</b> AWS SageMaker, BERT Embeddings, LlamaIndex, PostgreSQL</p>
+        <p>Developed a sophisticated RAG architecture with contextual BERT embeddings and fine-tuned Llama models, enabling efficient knowledge retrieval from large document collections. Implemented vector database optimization and hybrid search methods.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">LLM Optimization Pipeline</h3>
+      <h3 align="center">🤖 Text Classification with Fine-Tuned Models</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/hwchase17/langchain/master/.github/langchain_arch.png" width="100%" alt="LLM Pipeline"/></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-39c?style=for-the-badge&logo=codepen&logoColor=white"/>
-          </a>
-        </p>
-        <p>End-to-end MLOps system for LLM model training, evaluation, and deployment with automated prompt engineering.</p>
+        <p><b>Tech:</b> PyTorch, Transformers, HuggingFace, AWS EC2</p>
+        <p>Created a custom fine-tuning pipeline for transformer models to classify domain-specific documents. Implemented data augmentation techniques and attention mechanisms to improve performance on limited training data. </p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">NLP Document Classifier</h3>
+      <h3 align="center">🧠 LLM-Based Document Classification System</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/1*xYlXEXbtvJOSLG3VABvV1g.png" width="100%" alt="Document Classifier"/></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-39c?style=for-the-badge&logo=codepen&logoColor=white"/>
-          </a>
-        </p>
-        <p>Transformer-based document classification system with custom embeddings and active learning for continual improvement.</p>
+        <p><b>Tech:</b> Langchain, OpenAI API, Chroma DB, FastAPI</p>
+        <p>Built an intelligent document classification system using Langchain and LLMs. Designed custom prompt templates and few-shot examples to guide model behavior. Implemented document chunking strategies and embedding pipelines, with in-context learning for continuous improvement.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Intelligent Chatbot Platform</h3>
+      <h3 align="center">🎮 Reinforcement Learning for MILP Optimization</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/1*kAWItQpSSwtR7YpWT0CXrA.png" width="100%" alt="Chatbot System"/></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-39c?style=for-the-badge&logo=codepen&logoColor=white"/>
-          </a>
-        </p>
-        <p>Conversational AI system using LLMs with dynamic context management and multi-modal capabilities for enterprise use.</p>
+        <p><b>Tech:</b> Python, TensorFlow, Gurobi, Operations Research</p>
+        <p>Developed a hybrid reinforcement learning approach to solve complex Mixed Integer Linear Programming problems. <a href="https://github.com/Tomas1307/Reinforcement_learning_milp_heuristic" target="_blank">Public repository</a> shows how RL agents can learn heuristics to accelerate commercial solvers, reducing solution time by 65% on large-scale logistics optimization problems.</p>
       </div>
     </td>
   </tr>
 </table>
 </div>
+
 
 ## 📊 AI Skills Matrix
 
