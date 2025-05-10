@@ -137,6 +137,7 @@ graph TD
 - **Master's in Systems Engineering** - Universidad de Los Andes (2024-2026)
 - **Systems Engineering** - Universidad de Los Andes (2020-2024)
 - **Industrial Engineering** - Universidad de Los Andes (2021-2025)
+- **Efficient LLM customization** - NVIDIA (2025)
 - **Building LLM Applications With Prompt Engineering** - NVIDIA (2025)
 - **Building Transformer-Based NLP Applications** - NVIDIA (2024)
 - **Fundamentals of Deep Learning** - NVIDIA (2025)
