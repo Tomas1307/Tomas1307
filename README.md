@@ -1,161 +1,59 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Tomás%20Acosta%20Bernal&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
-</div>
+# Tomás Acosta Bernal
 
-# 👋 Hello, AI World! 
+Lead AI Engineer at **[Konecto](https://konecto.ai)**, where I build production voice agents and the platforms that run them.
+I also teach Natural Language Processing at **Universidad de los Andes**.
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Specialist+%7C+LLM+Architect;RAG+Systems+Designer+%7C+Prompt+Engineer;AWS+Cloud+Solutions+%7C+NLP+Enthusiast" alt="Typing SVG" />
-</div>
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Tomas1307&show_icons=true&theme=tokyonight&count_private=true" />
-
-## 🧠 About Me
-
-I'm a Systems & Industrial Engineer specialized in **Artificial Intelligence** and **Machine Learning** with a focus on **Natural Language Processing** and **Large Language Models**. Currently pursuing a Master's in Systems Engineering to deepen my expertise in AI.
-
-- 🔭 Currently building advanced **RAG architectures** and fine-tuning LLMs
-- 🌱 Learning advanced **prompt engineering** techniques and LLM optimization
-- 🚀 Experienced in deploying AI solutions on AWS (SageMaker, Lambda, S3)
-- 🔍 Passionate about bridging the gap between ML research and real-world applications
-
-<br clear="right"/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-### Core AI/ML
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### NLP & LLMs
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-%237B36AA.svg?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge)
-![Langchain](https://img.shields.io/badge/Langchain-%23007ACC.svg?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23F05033.svg?style=for-the-badge)
-
-### Cloud & MLOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-%23FFBE00.svg?style=for-the-badge)
-
-### Programming
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-</div>
-
-## 🚀 Featured Projects
-<div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔍 Advanced RAG Architecture</h3>
-      <div align="center">
-        <p><b>Tech:</b> AWS SageMaker, BERT Embeddings, LlamaIndex, PostgreSQL</p>
-        <p>Developed a sophisticated RAG architecture with contextual BERT embeddings and fine-tuned Llama models, enabling efficient knowledge retrieval from large document collections. Implemented vector database optimization and hybrid search methods.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 Text Classification with Fine-Tuned Models</h3>
-      <div align="center">
-        <p><b>Tech:</b> PyTorch, Transformers, HuggingFace, AWS EC2</p>
-        <p>Created a custom fine-tuning pipeline for transformer models to classify domain-specific documents. Implemented data augmentation techniques and attention mechanisms to improve performance on limited training data. </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🧠 LLM-Based Document Classification System</h3>
-      <div align="center">
-        <p><b>Tech:</b> Langchain, OpenAI API, Chroma DB, FastAPI</p>
-        <p>Built an intelligent document classification system using Langchain and LLMs. Designed custom prompt templates and few-shot examples to guide model behavior. Implemented document chunking strategies and embedding pipelines, with in-context learning for continuous improvement.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎮 Reinforcement Learning for MILP Optimization</h3>
-      <div align="center">
-        <p><b>Tech:</b> Python, TensorFlow, Gurobi, Operations Research</p>
-        <p>Developed a hybrid reinforcement learning approach to solve complex Mixed Integer Linear Programming problems. <a href="https://github.com/Tomas1307/Reinforcement_learning_milp_heuristic" target="_blank">Public repository</a> shows how RL agents can learn heuristics to accelerate commercial solvers, reducing solution time by 65% on large-scale logistics optimization problems.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-</div>
-
-
-## 📊 AI Skills Matrix
-
-```mermaid
-graph TD
-    A[AI & ML Skills] --> B[NLP & LLMs]
-    A --> C[MLOps]
-    A --> D[Data Engineering]
-    A --> E[Cloud Infrastructure]
-    
-    B --> B1[Transformer Architecture]
-    B --> B2[Fine-tuning LLMs]
-    B --> B3[Prompt Engineering]
-    B --> B4[RAG Systems]
-    
-    C --> C1[Model Lifecycle Management]
-    C --> C2[Automated Pipelines]
-    C --> C3[Performance Monitoring]
-    
-    D --> D1[Data Preparation]
-    D --> D2[PostgreSQL/Snowflake]
-    D --> D3[ETL Processes]
-    
-    E --> E1[AWS SageMaker]
-    E --> E2[Serverless Computing]
-    E --> E3[Containerization]
-```
-
-## 📈 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomas1307&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tomas1307&theme=nord&row=1&column=6" alt="trophy" />
-</div>
-
-## 🎓 Certifications & Education
-
-- **Master's in Systems Engineering** - Universidad de Los Andes (2024-2026)
-- **Systems Engineering** - Universidad de Los Andes (2020-2024)
-- **Industrial Engineering** - Universidad de Los Andes (2021-2025)
-- **Efficient LLM customization** - NVIDIA (2025)
-- **Building LLM Applications With Prompt Engineering** - NVIDIA (2025)
-- **Building Transformer-Based NLP Applications** - NVIDIA (2024)
-- **Fundamentals of Deep Learning** - NVIDIA (2025)
-
-## 🔗 Let's Connect
-
-<div align="center">
-  <a href="mailto:t.acosta@uniandes.edu.co">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="[https://www.linkedin.com/in/tomasacostabernal](https://www.linkedin.com/in/tomas-acosta-bernal-268856212/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-</div>
+Bogotá, Colombia · 4+ years building ML systems · MSc in Systems and Computing Engineering (Uniandes)
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</div>
+## What I build
+
+Most of my work lives in private repositories. Here is what it does, without the internal names.
+
+**In-house voice-agent platform.** Replaced a third-party voice-AI provider with our own stack, saving about $150K a year at 300 to 1,000 calls a day. It includes a multi-tenant control plane (React, FastAPI) with a visual routing canvas, environment promotion from dev to production, and post-call playbooks that the agents learn from.
+
+**Real-time voice worker.** The service that runs every call: streaming speech-to-text and text-to-speech over WebRTC, voice-activity and turn detection, LLM tool calling, and handoffs between specialist agents.
+
+**Customer-support voice agents for an enterprise manufacturer.** 26 agents across the US and Canada, in English, Spanish and French, with 16+ callable tools and Salesforce ticketing.
+- Moved the knowledge base from a managed search service to PostgreSQL + pgvector and built hybrid retrieval with query expansion and Reciprocal Rank Fusion: search latency went from 5 s to 700 ms.
+- Restructured the prompts: 15K to 5K tokens per call, $0.45 to $0.11 per minute.
+
+**Document-to-RAG ingestion platform.** Turns technical PDFs (tables, diagrams, manuals) into retrieval-ready chunks through an 8-stage pipeline over 7 LLM providers. Context caching cut its LLM cost by 10x.
+
+**Post-call root-cause analysis.** An LLM pipeline that reads call transcripts and classifies why a call was escalated (missing knowledge, protocol violation, hallucination), feeding fixes back into the knowledge base and the prompts.
+
+**Voice-quality evaluation platform.** Initiated and directed it; built with the team. Scores agent pronunciation and audio with forced alignment, GOP, WER and DTW in a fail-safe multi-stage pipeline.
+
+**Agentic deployment and engineering workflow.** A deploy system built on Claude Code subagents (phased releases, staging parity checks, drift detection, GO/NO-GO report) and a shared skills library that sets architecture and quality gates across the company's repositories.
+
+## Research
+
+- **MARSA: A Multi-accent, Multi-system Corpus of Full and Partial Voice Spoofing Attacks for Spanish Anti-spoofing Research.** T. Acosta-Bernal, J.C. Vásquez-Correa, M.D. Calderón-Acosta, R.F. Manrique. Manuscript in preparation for *Scientific Data*. Dataset: [doi:10.5281/zenodo.23873176](https://doi.org/10.5281/zenodo.23873176)
+  The first large-scale Spanish anti-spoofing corpus: 240,995 utterances, 1,567 speakers, 7 accent regions, 6 open voice-cloning systems, with full and word-level partial spoofs in ASVspoof2019 LA format.
+- **Eyes in the Sky: Deep Learning Processing of Airborne Sensor Imagery for Environmental Monitoring in the Colombian Amazon.** T. Acosta-Bernal et al. *2025 IEEE International Workshop on Technologies for Defense and Security (TechDefense)*, Rome. [doi:10.1109/TECHDEFENSE67306.2025.11721025](https://doi.org/10.1109/TECHDEFENSE67306.2025.11721025) · [code](https://github.com/Tomas1307/FLIR_GPF2)
+  YOLO-based detection of illegal mining camps in aerial thermal (FLIR) video: 93.4% mAP@50.
+- **Multi-Agent Evolution for Electric Vehicle Charging Systems: A Scatter Search Approach to Breeding Specialized DQN Agents.** T. Acosta Bernal, A. Tabares. In progress. [code](https://github.com/Tomas1307/MultiAgent-Evolution-DQN-EV-Systems)
+  Reinforcement learning combined with MILP: five specialized DQN agent types for 592 vehicles, solving instances where MILP alone was infeasible on 35% of the test systems.
+
+## Teaching
+
+Instructor at Universidad de los Andes for **Fundamentals of Natural Language Processing** and **Advanced Natural Language Processing** (master's level): Transformers, embeddings, fine-tuning, RAG and tool-using agents.
+For the advanced course I built the final competition benchmark: a 216-document corpus and 1,500 validated questions used to evaluate the students' RAG and tool-calling agents.
+
+## Public repositories
+
+| Repository | What it is |
+|---|---|
+| [ANTI-SPOOFING-VOICE-LATIN-AMERICA](https://github.com/Tomas1307/ANTI-SPOOFING-VOICE-LATIN-AMERICA) | The pipeline behind MARSA: voice-cloning generation, word-level partial spoofs, augmentation (RIR + noise, codec, RawBoost) and speaker-independent splits |
+| [FLIR_GPF2](https://github.com/Tomas1307/FLIR_GPF2) | Code for *Eyes in the Sky*: YOLO detection of illegal mining camps in aerial FLIR video from the Colombian Amazon |
+| [bias_key_random_MDVRP](https://github.com/Tomas1307/bias_key_random_MDVRP) | Biased random-key genetic algorithm (BRKGA) in C++ for the multi-depot vehicle routing problem, with hyperparameter tuning over benchmark instances |
+| [MultiAgent-Evolution-DQN-EV-Systems](https://github.com/Tomas1307/MultiAgent-Evolution-DQN-EV-Systems) | Scatter search that breeds specialized DQN agents for EV charging, compared against multi-objective MILP |
+
+## Tools I use most
+
+Python, PyTorch, Hugging Face, FastAPI, PostgreSQL + pgvector, React + TypeScript, Docker, Azure, AWS, LangChain, Claude Code.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/tomas-acosta-bernal-268856212/) · t.acosta@uniandes.edu.co
