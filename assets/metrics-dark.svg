@@ -23,7 +23,7 @@
 <rect x="1" y="162" width="4" height="40" rx="2" fill="#8b7cf6"/>
 <text x="24" y="196" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" fill="#eceaf7">26</text>
 <text x="24" y="224" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#8b7cf6">production voice agents</text>
-<text x="24" y="246" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="13" fill="#9a98b8">English · Spanish · French, US & Canada</text>
+<text x="24" y="246" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="13" fill="#9a98b8">English · Spanish · French, US &amp; Canada</text>
 </g><g class="f" style="animation-delay:0.48s">
 <rect x="329" y="141" width="310" height="122" rx="14" fill="#171a2e" stroke="#2a2f4d"/>
 <rect x="329" y="162" width="4" height="40" rx="2" fill="#8b7cf6"/>
