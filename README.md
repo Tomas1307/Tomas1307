@@ -15,7 +15,7 @@ I build production voice agents at **[Konecto](https://konecto.ai)** and teach N
 
 Most of my work is in private repositories, so here is what it does without the internal names.
 
-| | |
+| Project | What it does |
 |---|---|
 | **In-house voice-agent platform** | Replaced a third-party voice-AI vendor. Multi-tenant control plane (React, FastAPI) with a visual routing canvas, dev-to-production promotion and post-call playbooks the agents learn from. |
 | **Real-time voice worker** | Runs every call: streaming STT and TTS over WebRTC, voice-activity and turn detection, LLM tool calling, handoffs between specialist agents. |
