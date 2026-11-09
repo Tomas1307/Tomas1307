@@ -47,7 +47,7 @@ Instructor at Universidad de los Andes for **Fundamentals of Natural Language Pr
 
 ## Technologies
 
-| Area | |
+| Area | Tools |
 |---|---|
 | **LLMs and agents** | OpenAI, Anthropic, Gemini, open models (Llama, Qwen, Nemotron) · tool calling · MCP · LangChain · LangGraph · Langfuse |
 | **Retrieval** | PostgreSQL + pgvector · hybrid search · Reciprocal Rank Fusion · re-ranking · Azure AI Search · FAISS |
